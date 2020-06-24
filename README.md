@@ -16,3 +16,7 @@ These are then applied to partially labelled data using a simple bagged decision
 There is an inherent problem with the data in this part since not all items are labelled. While the decision tree classifier will therefore be biased, it is assumed there is a small but significant number of "frauds" that are labelled as "non frauds". Therefore, using a decision tree that essentially "casts a wide net" should in theory catch some of these (provided they are similar in terms of feature to correctly labelled "frauds").
 
 TO ADD: clustering / unsupervised methods.
+
+### Other notes
+
+Data not provided
