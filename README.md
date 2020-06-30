@@ -1,13 +1,13 @@
 # Fraud-detection
 
-## pass rate
+## Pass rate
 
 The first part of the jupyter notebook outlines some basic data cleaning, feature engineering and then feature selection techniques.
 
 These are then applied to labelled data using a simple logistic regression (including standard errors) to assess the viability of the model and the quality of the data
 
 
-## fraud detection
+## Fraud-detection
 
 The second part of the jupyter notebook also outlines some basic data cleaning, feature engineering and then feature selection techniques.
 
